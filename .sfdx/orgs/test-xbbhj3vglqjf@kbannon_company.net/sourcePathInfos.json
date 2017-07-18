@@ -821,8 +821,8 @@
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1500399704000,
-            "changeTime": 1500399704000,
+            "modifiedTime": 1500400277000,
+            "changeTime": 1500400277000,
             "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef"
         }
     ],
@@ -833,10 +833,10 @@
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/TestClassForTest.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 46,
-            "modifiedTime": 1500399704000,
-            "changeTime": 1500399704000,
-            "contentHash": "463163665477e6a7d464ab479799d812d16726d1"
+            "size": 49,
+            "modifiedTime": 1500400277000,
+            "changeTime": 1500400277000,
+            "contentHash": "4e78e9f73d7f2422cdeaf39b6b1019fbc864cbd9"
         }
     ],
     [
