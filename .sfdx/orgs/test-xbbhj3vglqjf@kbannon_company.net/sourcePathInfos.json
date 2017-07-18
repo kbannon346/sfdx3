@@ -32,14 +32,14 @@
     [
         "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1500394251000,
             "changeTime": 1500394251000,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -821,8 +821,8 @@
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1500394251000,
-            "changeTime": 1500394251000,
+            "modifiedTime": 1500398663000,
+            "changeTime": 1500398663000,
             "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef"
         }
     ],
@@ -833,23 +833,23 @@
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/TestClassForTest.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 34,
-            "modifiedTime": 1500394251000,
-            "changeTime": 1500394251000,
-            "contentHash": "2f10df79c6c0cfa75e559bc46b637451cd885a82"
+            "size": 43,
+            "modifiedTime": 1500398663000,
+            "changeTime": 1500398663000,
+            "contentHash": "16e89dbaa97a70e922f5df4ab6d05dc57729a0fd"
         }
     ],
     [
         "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1500394251000,
             "changeTime": 1500394251000,
-            "contentHash": "0a27461bd39570ad01344fd60daa19703ea22f62"
+            "contentHash": "0a27461bd39570ad01344fd60daa19703ea22f62",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
