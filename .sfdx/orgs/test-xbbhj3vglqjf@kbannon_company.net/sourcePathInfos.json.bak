@@ -2,16 +2,15 @@
     [
         "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app",
         {
+            "state": "u",
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1500390696000,
-            "changeTime": 1500390696000,
-            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 136,
+            "modifiedTime": 1500594789000,
+            "changeTime": 1500594789000,
             "isWorkspace": false,
-            "isArtifactRoot": true
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4"
         }
     ],
     [
@@ -45,31 +44,29 @@
     [
         "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 68,
-            "modifiedTime": 1500390696000,
-            "changeTime": 1500390696000,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 102,
+            "modifiedTime": 1500595598000,
+            "changeTime": 1500595598000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
         }
     ],
     [
         "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation",
         {
+            "state": "u",
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation",
             "isDirectory": true,
-            "size": 238,
-            "modifiedTime": 1500390848000,
-            "changeTime": 1500390848000,
-            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 340,
+            "modifiedTime": 1500594783000,
+            "changeTime": 1500594783000,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "7775a52ad15533779186311b6ba129ab7ae84ceb"
         }
     ],
     [
@@ -842,40 +839,131 @@
     [
         "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1500593631000,
             "changeTime": 1500593631000,
-            "contentHash": "43ca65e994197a16fc0fb19abe2bcc4a88c593e2"
+            "contentHash": "43ca65e994197a16fc0fb19abe2bcc4a88c593e2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 88,
             "modifiedTime": 1500593631000,
             "changeTime": 1500593631000,
-            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374"
+            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1500593631000,
             "changeTime": 1500593631000,
-            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004"
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1500595598000,
+            "changeTime": 1500595598000,
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28"
+        }
+    ],
+    [
+        "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 155,
+            "modifiedTime": 1500595759000,
+            "changeTime": 1500595759000,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45"
+        }
+    ],
+    [
+        "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1500595598000,
+            "changeTime": 1500595598000,
+            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce"
+        }
+    ],
+    [
+        "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 91,
+            "modifiedTime": 1500595777000,
+            "changeTime": 1500595777000,
+            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5"
+        }
+    ],
+    [
+        "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1500595598000,
+            "changeTime": 1500595598000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1500595598000,
+            "changeTime": 1500595598000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1500595598000,
+            "changeTime": 1500595598000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
