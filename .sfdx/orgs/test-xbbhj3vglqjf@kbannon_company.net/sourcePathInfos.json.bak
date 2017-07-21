@@ -9,7 +9,7 @@
             "changeTime": 1500390696000,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1500390696000,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -52,7 +52,7 @@
             "changeTime": 1500390696000,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -67,7 +67,7 @@
             "changeTime": 1500390848000,
             "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -816,40 +816,66 @@
     [
         "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/TestClassForTest.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/TestClassForTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1500398663000,
-            "changeTime": 1500398663000,
-            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef"
+            "modifiedTime": 1500593490000,
+            "changeTime": 1500593490000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/TestClassForTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/TestClassForTest.cls",
             "isDirectory": false,
+            "size": 51,
+            "modifiedTime": 1500593490000,
+            "changeTime": 1500593490000,
+            "contentHash": "95fb973de5fa228c077082fdb5dc5df436c81c22",
             "isMetadataFile": false,
-            "size": 43,
-            "modifiedTime": 1500398663000,
-            "changeTime": 1500398663000,
-            "contentHash": "16e89dbaa97a70e922f5df4ab6d05dc57729a0fd"
+            "state": "u"
         }
     ],
     [
         "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 136,
-            "modifiedTime": 1500394251000,
-            "changeTime": 1500394251000,
-            "contentHash": "0a27461bd39570ad01344fd60daa19703ea22f62",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 204,
+            "modifiedTime": 1500593631000,
+            "changeTime": 1500593631000,
+            "contentHash": "43ca65e994197a16fc0fb19abe2bcc4a88c593e2"
+        }
+    ],
+    [
+        "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 88,
+            "modifiedTime": 1500593631000,
+            "changeTime": 1500593631000,
+            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374"
+        }
+    ],
+    [
+        "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kbannon/Documents/ForceCode/Other/DX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1500593631000,
+            "changeTime": 1500593631000,
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004"
         }
     ]
 ]
